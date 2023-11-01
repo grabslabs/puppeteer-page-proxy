@@ -2,6 +2,8 @@
 ![node-current](https://img.shields.io/node/v/puppeteer?style=flat-square)
 ![npm](https://img.shields.io/npm/dt/puppeteer-page-proxy?style=flat-square)
 
+Fixed fork of Cuadrix/puppeteer-page-proxy.
+
 # puppeteer-page-proxy <img src="https://i.ibb.co/kQrN9QJ/puppeteer-page-proxy-logo.png" align="right" width="150" height="150">
 Additional Node.js module to use with **[puppeteer](https://www.npmjs.com/package/puppeteer)** for setting proxies per page basis.
 

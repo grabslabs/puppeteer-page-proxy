@@ -1,7 +1,7 @@
 {
   "name": "grabslabs-puppeteer-page-proxy",
-  "description": "Additional Node.js module to use with 'puppeteer' for setting proxies per page basis.",
-  "version": "1.4.1",
+  "description": "Additional Node.js module to use with 'puppeteer' for setting proxies per page basis. Fixed fork of Cuadrix/puppeteer-page-proxy.",
+  "version": "1.4.2",
   "author": "Cuadrix <cuadrix12000@gmail.com> (https://github.com/Cuadrix)",
   "homepage": "https://github.com/grabslabs/puppeteer-page-proxy",
   "main": "./src/index.js",
